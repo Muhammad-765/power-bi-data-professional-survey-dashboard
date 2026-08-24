@@ -1,5 +1,7 @@
 # 📊 Power BI – Data Professional Survey Analysis Dashboard
 
+<img width="749" height="476" alt="Dashboard" src="https://github.com/user-attachments/assets/eb2b4b7c-5a2a-40dc-a46d-e229ea99df2e" />
+
 ## 📌 Project Overview
 
 This project presents an interactive **Power BI dashboard** developed to analyze survey responses from data professionals.
@@ -97,14 +99,6 @@ The dashboard explores several questions, including:
 5. How satisfied are respondents with their work/life balance?
 6. How satisfied are respondents with their salaries?
 7. How difficult do respondents perceive entering the data industry to be?
-
----
-
-## 📷 Dashboard Preview
-
-<img width="749" height="476" alt="Dashboard" src="https://github.com/user-attachments/assets/a5dd3fae-fb94-4d9a-b55b-aae364efbd58" />
-
-
 
 ---
 
