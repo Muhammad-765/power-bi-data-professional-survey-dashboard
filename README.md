@@ -31,7 +31,7 @@ The interactive dashboard allows users to explore:
 - Salary satisfaction
 - Career-entry difficulty
 
-> 🔗 **Live Interactive Dashboard:** [View Power BI Dashboard](https://github.com/Muhammad-765/power-bi-data-professional-survey-dashboard/blob/main/Data_Professional_Survey_Analysis_Dashboard.pbix)
+> 🔗 **Live Interactive Dashboard:** [View Power BI Dashboard](https://github.com/Muhammad-765/power-bi-data-professional-survey-dashboard/blob/main/Power%20BI/Data_Professional_Survey_Analysis_Dashboard.pbix)
 
 ---
 
